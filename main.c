@@ -3,8 +3,8 @@
 /**    METODOS DE PROGRAMACAO I                        |        .-.    |     **/
 /**    LIC MATEMATICA - FCTUC                          |        !o|    |     **/
 /**                                                    |>-,   ,-' | ,-<|     **/
-/**    AUTORES: - NUNO RODRIGUES.....                  |  `---'   `-'  |     **/
-/**             - ALICE CONCEICAO....                  `---------------'     **/
+/**    AUTORES: - NUNO RODRIGUES                       |  `---'   `-'  |     **/
+/**             - ALICE CONCEICAO                      `---------------'     **/
 /******************************************************************************/
 /* DESCRICAO: Desenvolvimento de um projeto informático cuja principal       **/
 /*            função é apoiar a atividade de uma empresa comercial na        **/
